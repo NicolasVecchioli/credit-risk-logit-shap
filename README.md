@@ -1,6 +1,3 @@
-# credit-risk-logit-shap
-An end-to-end project on credit default risk using logistic regression and SHAP values.
-
 # Credit Risk Prediction with Logistic Regression and SHAP
 
 This project analyzes credit default risk using logistic regression. The dataset is from [Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit/data), a classic binary classification task.
