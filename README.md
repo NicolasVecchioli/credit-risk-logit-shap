@@ -34,5 +34,5 @@ This project analyzes credit default risk using logistic regression. The dataset
 
 🧑 Author: Nicolás Vecchioli  
 📍 Buenos Aires, Argentina  
-📫 [LinkedIn](https://www.linkedin.com/in/...)
+📫 [LinkedIn](https://www.linkedin.com/in/nicolas-vecchioli-00893b135)
 
